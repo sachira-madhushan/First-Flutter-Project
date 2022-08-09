@@ -1,0 +1,10 @@
+^C:\USERS\SACHIRA\DESKTOP\TOOKEN MOBILE APP\TOOKEN\TOOKEN-FRONT\BUILD\WINDOWS\CMAKEFILES\CFA0AF2598CB295F74C4867EC6DF4185\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

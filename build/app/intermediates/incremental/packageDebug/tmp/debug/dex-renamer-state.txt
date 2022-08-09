@@ -1,0 +1,4 @@
+#Tue Jul 12 16:26:56 IST 2022
+base.0=C\:\\Users\\SACHIRA\\Desktop\\Tooken Mobile App\\Tooken\\tooken-front\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

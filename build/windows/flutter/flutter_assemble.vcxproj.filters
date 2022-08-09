@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\SACHIRA\Desktop\Tooken Mobile App\Tooken\tooken-front\build\windows\CMakeFiles\52f5acb03e231eee87d3747873400f53\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\SACHIRA\Desktop\Tooken Mobile App\Tooken\tooken-front\build\windows\CMakeFiles\34adca800cf6b8653e8e1a6f7eab328d\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\SACHIRA\Desktop\Tooken Mobile App\Tooken\tooken-front\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\SACHIRA\Desktop\Tooken Mobile App\Tooken\tooken-front\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{92B2FEF0-1F08-3571-B7CC-CAA52ABE14C0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

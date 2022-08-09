@@ -1,0 +1,10 @@
+C:/Users/SACHIRA/Desktop/Tooken Mobile App/Tooken/tooken-front/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/SACHIRA/Desktop/Tooken Mobile App/Tooken/tooken-front/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/SACHIRA/Desktop/Tooken Mobile App/Tooken/tooken-front/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/SACHIRA/Desktop/Tooken Mobile App/Tooken/tooken-front/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/SACHIRA/Desktop/Tooken Mobile App/Tooken/tooken-front/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/SACHIRA/Desktop/Tooken Mobile App/Tooken/tooken-front/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/SACHIRA/Desktop/Tooken Mobile App/Tooken/tooken-front/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/SACHIRA/Desktop/Tooken Mobile App/Tooken/tooken-front/build/windows/runner/CMakeFiles/tooken.dir
+C:/Users/SACHIRA/Desktop/Tooken Mobile App/Tooken/tooken-front/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/SACHIRA/Desktop/Tooken Mobile App/Tooken/tooken-front/build/windows/runner/CMakeFiles/ALL_BUILD.dir
